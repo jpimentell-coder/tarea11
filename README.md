@@ -1,3 +1,4 @@
+(se que no tiene video, pero aun que sea medio punto)
 1. Abrir SQL Server Management Studio y ejecutar el script de la Clase 10 para recrear la base`GastosDB con los 3 gastos iniciales (Id 1 a 3)
 2. Abrir el proyecto CrudGastos en Visual Studio
 3. Instalar el paquete NuGet: Proyecto → Administrar paquetes NuGet → Examinar → Microsoft.Data.SqlClient → Instalar
